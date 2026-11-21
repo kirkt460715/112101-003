@@ -1,0 +1,36 @@
+{
+  "records": [
+    {
+      "event_id": "e-01",
+      "platform": "stream-a",
+      "metric": "plays",
+      "value": 930,
+      "rule_version": "r1",
+      "observed_at": "2025-08-01T16:00:00Z"
+    },
+    {
+      "event_id": "e-01",
+      "platform": "stream-a",
+      "metric": "unique_estimate",
+      "value": 410,
+      "rule_version": "r1",
+      "observed_at": "2025-08-02T03:00:00Z"
+    },
+    {
+      "event_id": "e-01",
+      "platform": "stream-b",
+      "metric": "plays",
+      "value": 700,
+      "rule_version": "b4",
+      "observed_at": "2025-08-03T00:00:00Z"
+    },
+    {
+      "event_id": "e-02",
+      "platform": "onsite",
+      "metric": "attendees",
+      "value": 62,
+      "rule_version": "manual-v1",
+      "observed_at": "2025-08-05T10:00:00Z"
+    }
+  ]
+}

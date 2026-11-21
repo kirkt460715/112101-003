@@ -1,0 +1,19 @@
+{
+  "collection": "records.json",
+  "record_fields": [
+    "event_id",
+    "platform",
+    "metric",
+    "value",
+    "rule_version",
+    "observed_at"
+  ],
+  "example_record": {
+    "event_id": "e-01",
+    "platform": "stream-a",
+    "metric": "plays",
+    "value": 930,
+    "rule_version": "r1",
+    "observed_at": "2025-08-01T16:00:00Z"
+  }
+}
